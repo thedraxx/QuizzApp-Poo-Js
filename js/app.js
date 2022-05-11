@@ -1,1 +1,4 @@
-console.log('Hello World');
+import { questions } from "../data/questions.js";
+
+
+console.log(questions);
